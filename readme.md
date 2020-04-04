@@ -1,5 +1,5 @@
 ## Information Security Glossary
-![](https://img.shields.io/badge/status-developing-yellow)
+![](https://img.shields.io/badge/status-initial-yellow)
 
  #### Glossary for Information Security and IT purposes
  With the intent of helping professors and students in the area of InfoSec, I decided to create this glossary since one of the biggest issues for a student in the area of InfoSec is the ignorance of any term, definition, jargon or even words used by professionals in the field.
