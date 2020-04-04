@@ -1,80 +1,80 @@
-C.A.
 AV
-Firewall
-UAP
-PenTest
-Vuln
-Red Team
+Adware
+Backdoor
 Blue Team
-Purple Team
-SSL
-SSH
+Bug
+Bypass
+C.A.
+CERT
+CIA Triad
 CMD
-IDS
-IPS
-Honeypot
-Roadmap
-Workbook
-ISP
-IP
+Cipher
+Compliance
+Cracker
+Crypto
+DB (Database)
+DDoS
+Data
+Decode
+DoS
+Downtime
+Exploit
 FTP
-SFTP
+Fingerprint
+Firewall
+Flood
+Footprint
+GDPR
 HTTP
 HTTPS
-TLS
-Exploit
-Payload
-SIEM
-SMB
-UAC
-Bypass
 Hack
-Downtime
-TangoDown
-Sniffing
-Spoofing
-Scan
-WAF
-War Room
-GDPR
-Logs
-Malware
-Adware
-Worm
-Task
-Tool
-Team
-Compliance
-Backdoor
-Shell
-Data
-DB (Database)
-P2P
-Cipher
-Crypto
-Decode
-Mount
 Handshake
-MAC Address
-WPA
-WPS
-Injection
-IPSEC
-Kernel
-Script Kiddies
-Trojans
-DoS
-DDoS
-Fingerprint
-Footprint
-Cracker
-Phreaker
-VPN
-VPS
-Bug
-CERT
-Flood
 Hijacking
 Hole
+Honeypot
+IDS
+IP
+IPS
+IPSEC
+ISP
+Injection
+Kernel
+Logs
+MAC Address
+Malware
+Mount
+P2P
+Payload
+PenTest
+Phreaker
+Purple Team
+Red Team
+Roadmap
+SFTP
+SIEM
+SMB
+SSH
+SSL
+Scan
+Script Kiddies
+Shell
+Sniffing
+Spoofing
+TLS
+TangoDown
+Task
+Team
+Tool
+Trojans
+UAC
+UAP
+VPN
+VPS
+Vuln
+WAF
+WPA
+WPS
+War Room
 Warez
-CIA Triad
+Workbook
+Worm
