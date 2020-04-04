@@ -1,23 +1,48 @@
+AP
+APT
+ARP
+ATM
+AUP
 AV
 Adware
 Backdoor
+Bait
+Ban
+Banker
+Baseline
+Blacklist
 Blue Team
+Bluetooth
+Bot
+Botnet
+Brute-force
+Buffer Overflow
 Bug
 Bypass
 C.A.
+C2
+CC
 CERT
 CIA Triad
 CMD
+CSRF
+Cache
+Checksum
 Cipher
+Cleartext
 Compliance
+Cookie
 Cracker
 Crypto
 DB (Database)
 DDoS
+DNS
 Data
 Decode
+Deface
 DoS
 Downtime
+Entropy
 Exploit
 FTP
 Fingerprint
@@ -25,56 +50,95 @@ Firewall
 Flood
 Footprint
 GDPR
+GPG
+Greylisting
 HTTP
 HTTPS
 Hack
 Handshake
+Hardening
+Harvest
+Hash
 Hijacking
+Hoax
 Hole
 Honeypot
+Hot fix
 IDS
 IP
 IPS
 IPSEC
 ISP
 Injection
+Intruder
+Jackpotting
 Kernel
+Keylogger
 Logs
 MAC Address
+MFA
+MITB
+MITM
+MMS
 Malware
 Mount
+NTP
 P2P
+PCI
+PGP
+Patch
 Payload
 PenTest
+Phishing
 Phreaker
 Proxy
 Purple Team
 Red Team
 Roadmap
+Rootkit
+S/MIME
 SFTP
 SIEM
 SMB
 SSH
+SSID
 SSL
+Scam
 Scan
+Screenlogger
 Script Kiddies
 Shell
+Skimming
 Sniffing
+Spam
+Spear Phishing
 Spoofing
+Spyware
+Steganography
+TFA
 TLS
 TangoDown
 Task
 Team
+Token
 Tool
 Trojans
 UAC
+UBE
+UCE
+URL
 VPN
 VPS
 Vuln
 WAF
+WLAN
 WPA
 WPS
 War Room
 Warez
+Whitelist
 Workbook
 Worm
+XSS
+Zero Day
+Zombie
