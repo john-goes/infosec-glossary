@@ -6,3 +6,6 @@
  
  ### Contributions
  For the purpose of this project, it's extremely important that contributors add more words to the glossary as it's humanly impossible for a single person to remember every and each term out there. Thus, the quality of this glossary might depend on how many contributions it has. To contribute, you must create a PR to the master branch and soon after analyzed it will be published (commited).
+ 
+ ### Repo
+ We separe the glossary in two files, the raw file (full glossary) and the detailed glossary (list of words with definition). In the future we plan to divide by languages too.
