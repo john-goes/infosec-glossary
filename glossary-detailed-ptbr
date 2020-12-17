@@ -1,6 +1,9 @@
 AV (Anti-Virus): Softwares desenvolvidos para prevenir, detectar e eliminar vírus de computador.
 
 Adware: Tipo de vírus que executa automaticamente e exibe uma grande quantidade de anúncios sem a permissão do usuário.
+
+APT (Advanced Persistent Threat): Ator de ameaça ou ator malicioso extremamente discreto, tipicamente um estado-nação ou grupo financiado pelo estado, que ganha acesso não autorizado a rede de computadores e se mantém indetectado por um extenso período. Também se refere a grupos não financiados pelo estado conduzindo intrusões de larga escala com objetivos específicos.
+
 Backdoor:  Método, geralmente discreto, de burlar uma autenticação normal ou criptografia em um computador, produto ou dispositivo embarcado (como um roteador doméstico, por exemplo), ou sua incorporação (como parte de um sistema criptográfico, algoritmo, chipset, etc). São usados frequentemente para assegurar acesso remoto a um computador ou obter acesso em texto-plano em sistemas criptografados.
 
 Blue Team: Time defesa ou time de segurança defensiva é, basicamente, o time de segurança focado em ferramentas, softwares, regras e políticas para proteção, monitoramento ou mitigação de vulnerabilidades em um ambiente.
@@ -52,6 +55,7 @@ IPSEC (IP Security Protocol):
 ISP (Internet Service Provider): 
 Injection
 Kernel
+Keylogger
 Logs
 MAC Address
 Malware
